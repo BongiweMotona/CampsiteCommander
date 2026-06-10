@@ -13,7 +13,8 @@ SplashScreen
 
 MainScreen
 
-<img width="355" height="645" alt="Capture" src="https://github.com/user-attachments/assets/be99cbcf-f352-4e82-9823-f4f617a4378a" />
+<img width="356" height="641" alt="Capture" src="https://github.com/user-attachments/assets/ee38a89e-0108-44b5-b14c-b7f50b989dfe" />
+
 
 
 DetailScreen
