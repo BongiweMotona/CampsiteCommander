@@ -28,3 +28,11 @@ How to clone:
 2. Open in Android Studio
 
 3. Run on emulator or dvice
+
+References
+
+[1] Android Developer Documentation, "Android Developers," Google, 2024. [Online]. Available: https://developer.android.com. [Accessed: June 10, 2026].
+
+[2] JetBrains, "Kotlin Documentation," JetBrains, 2024. [Online]. Available: https://kotlinlang.org/docs. [Accessed: June 10, 2026].
+
+[3] JetBrains, "Android Development with Kotlin," JetBrains, 2024. [Online]. Available: https://kotlinlang.org/docs/android-overview.html. [Accessed: June 10, 2026].
